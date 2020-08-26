@@ -1,0 +1,30 @@
+{
+  "name": "@saisandeepvaddi/eslint-config-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sai Sandeep Vaddi",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "typescript",
+    "eslint-typescript"
+  ],
+  "peerDependencies": {
+    "eslint": ">= ^6"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.10.1",
+    "@typescript-eslint/parser": "^3.10.1",
+    "eslint": "^7.7.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.6",
+    "prettier": "^2.1.0"
+  }
+}
