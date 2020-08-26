@@ -15,6 +15,10 @@
     "typescript",
     "eslint-typescript"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/saisandeepvaddi/eslint-config-typescript.git"
+  },
   "peerDependencies": {
     "eslint": ">= ^6"
   },
