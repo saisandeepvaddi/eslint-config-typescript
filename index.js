@@ -31,7 +31,6 @@ module.exports = {
     "no-unused-vars": "off",
     "@typescript-eslint/no-unused-vars": "off",
     "@typescript-eslint/no-unused-vars-experimental": "error"
-    "no-shadow": "off",
     "@typescript-eslint/no-shadow": ["warn"],
   },
   globals: {
