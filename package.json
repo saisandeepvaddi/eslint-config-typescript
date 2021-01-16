@@ -1,6 +1,6 @@
 {
   "name": "@saisandeepvaddi/eslint-config-typescript",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "index.js",
   "author": "Sai Sandeep Vaddi",
   "license": "MIT",
